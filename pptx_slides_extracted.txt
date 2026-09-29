@@ -1,0 +1,122 @@
+Total slides: 59
+
+=== SLIDE 2 ===
+Sushena Ranatunga Co-Founder Director - Creative Software Sushena has been a director of Creative Software since its inception. He co-founded Four Corners Lanka (Pvt) Ltd, Four Corners Leisure (Pvt) Ltd, Creative eLearning and serves as a Director of Cambio Software Engineering Pvt Ltd., the leading E-Healthcare solutions provider in Sweden. He has been working in the IT Industry in Sri Lanka and overseas since 1989. He is currently the Rotary District Governor 2024-25 of the Rotary District 3220. Sushena holds a B.Sc. (Hons) in Information Technology/ Information Systems from Manchester Metropolitan University (UK) and an M.Sc. in Information Technology from Keele University (UK). Jonas Bridgwater Jonas has been a director of Creative Software since its inception. He has been working in Sri Lanka’s IT Industry since 1998 when he arrived as the Managing Director of IFS' first R&D centre in Colombo. Prior to moving to Sri Lanka, Jonas worked as a software engineer and programme manager in Sweden. He holds a BSc in Information Technology from Chalmers Tekniska Högskola in Sweden. Co-Founder /Director - Creative Software Creative Software’s Leadership ​
+
+=== SLIDE 3 ===
+Scandinavia is our home market, but today we have customers all over the world. ​ Our success comes from a relentless focus on quality and customer satisfaction, and most of our new business comes from customer referrals ​ Founded in 1999 700 employed and under management Customers world-wide W ith the biggest footprint I n Scandinavia 20+ years experience working W ith geographically dispersed teams Creative Software at a Glance ​
+
+=== SLIDE 4 ===
+The Journey​
+
+=== SLIDE 6 ===
+Cambio Software Engineering, backed by the strength of its parent company Cambio Healthcare Systems AB, is at the forefront of designing and developing cutting-edge healthcare solutions using state-of-the-art technologies. Cambio’s e-health solutions support healthcare professionals in their daily work and offer patients safer and more accessible care. Operating in Sri Lanka for over 15 years, Cambio currently employs over 300 skilled software professionals in the island, leveraging the country’s development expertise. Headquartered in Stockholm, Sweden, Cambio is the e-healthcare market leader in the Nordic regions, delivering comprehensive IT solutions to healthcare providers in Sweden, Denmark, and the UK. As a subsidiary of Creative Software, the team in Sri Lanka manages the entire R&D operations for Cambio, ensuring the delivery of innovative and effective healthcare solutions CAMBIO Our Associates The e-healthcare market leader in the Nordic regions,
+
+=== SLIDE 7 ===
+DIPS addresses the needs for administration and documentation of patient treatment through electronic patient records systems and interaction between healthcare organizations and collaborating businesses. This enables clients with structured information processing for optimal patient care. DIPS was founded in 1987 and has grown to become the largest provider of electronic patient record systems to hospitals in Norway. The company has contracts with three of Norway’s four regional health trusts, including five of the six university hospitals in Norway. The DIPS solutions have more than 100,000 daily users and are thus one of Norway’s most used computer systems. DIPS has around 400 employees in offices located in 5 cities in Norway and is headquartered in Bodø. DIPS, conducts its Research and Development (R&D) operations in Sri Lanka through a strategic partnership with Creative Software. Leading supplier of e-health software intended for Norwegian hospitals, municipal health services, radiology, and laboratories DIPS Our Partners
+
+=== SLIDE 8 ===
+DREView gives you a comprehensive insight into your workloads and end-to-end visibility into the performance of your SQL data warehouse, helping you to dramatically reduce the time it takes to isolate and fix data warehouse issues. ​​ ​​ The monitor provides an intuitive interface on a single pane of glass that visualizes data warehouses and server activity so you can see immediately where problem areas are.​​ Dreview Kuha In today's fast-paced business landscape, organizations encounter a common challenge - efficiently accessing and managing critical information within their extensive document repositories. ​​ ​​ This affects various departments, such as Legal, HR, and Finance, making quick access to crucial documents a struggle due to the complexity of existing search solutions. kuha is here to revolutionize the way you access and utilize your data and documents, all while keeping your data highly secure.​ Layup Layup revolutionizes corporate training with its cutting-edge platform featuring a multi-tenant cloud architecture for seamless scalability and rapid deployment. Offering frequent iterative updates and multiple integrations to streamline operations, Layup fosters an active learning culture by reimagining corporate learning. ​ ​ Enhance training effectiveness and engagement with Layup's gamified, social-driven Learning Management System, designed to optimize learning experiences within your organization.​ Our Products
+
+=== SLIDE 9 ===
+Web Technologies Creative
+
+=== SLIDE 10 ===
+Creative Web Technologies’ Leadership ​ Kolitha De Silva Director CEO - Creative Web Technologies
+
+=== SLIDE 11 ===
+Consultation Logistics Manufacturing Finance & Banking Healthcare Insurance Coop e rate Auditing Retail Hospitality Mobile Workforce Enterprise Search Telecommunication E - Learning E - Commerce CRM Airline Our clients are from t he following sectors Our Clients
+
+=== SLIDE 13 ===
+Our Tech stacks
+
+=== SLIDE 14 ===
+Multi-cloud Public Cloud On Premises Infrastructure Hybrid Cloud Oracle Cloud Infrastructure 02 01 03 04
+
+=== SLIDE 15 ===
+Our strength is having Exper i enced Azure Certified Engineers DevOps Data Analytics Application Development Data Platform Application Integration Microsoft Accreditations Microsoft Partner Network Program has endorsed the mentioned technical competencies of Creative Software Dat Analytics
+
+=== SLIDE 16 ===
+Microsoft Accreditations
+
+=== SLIDE 17 ===
+Our Services Software Development & Delivery 24/7 Support & Maintenance Design & UX/UI IFS ERP Consultancy Quality Assurance Mobile App Development Data Engineering & Analytics AI/ML & Big Data Cloud Services DevOps, DataOps & SRE
+
+=== SLIDE 18 ===
+Service Classification Products (IPS) Solutions Team dedicated T o work as an E xtended team Industry ready t ra i ning sessions LayUp DREView KUHA (Knowladge Unification F or Hyper Analytics SAAS Billing Service Audit Product Project Delivery POC Delivery Consultancy 01 02 03 04 Team Tra i ning
+
+=== SLIDE 19 ===
+Why Creative Web Technologies Proven for delivering industry best data platforms whilst assuring of low TCO and high ROI Well experienced MPP Expert team with Ex-Microsoft professional and MVPs Local presence for ease of business, better support and grater relationship Award winning team for excellent solution delivery with highly capable technical and PM skills Greater business domain expertise
+
+=== SLIDE 20 ===
+Phase 1 Deploy Data Platform Phase 2 Implement all insights/ A nalytics requirement Phase 3 Modernize the data platform to Cater advance analytics requirements Phase 4 Pred ictive and prescriptive a nalytics including AI / ML The Roadmap ( mdp ) The Roadmap - MDP
+
+=== SLIDE 21 ===
+Data Transformation Journey Start with hindsight Dashboards Data warehouse Modernize to generate insights Time series Regressions More capabilities with foresight Decision Modeling Simulations It’s journey…. D escriptive Analytics Diagnostic Analytics Predictive Analytics Prescriptive Analytics Information Optimization Difficulty Values Hindsight In sigh t Foresight
+
+=== SLIDE 22 ===
+What is Data Platform? A data platform is a centralized framework or infrastructure facilitating the collection, storage, processing, and analysis of data within an organization, enabling seamless management and utilization for purposes like business intelligence, analytics, reporting, and decision-making.​ Real-time Data Processing Scalability and Flexibility Streamlined Decision-Making Centralized Data Management Enhanced Data Security Improved Data Accessibility
+
+=== SLIDE 23 ===
+What Makes a Data Platform Modern? Data & Analytics “Modernization” is a buzzword that’s used a lot, but what exactly does it mean? ​ Below is​ a list of characteristics and capabilities we believe define modern architecture​ Handles all varieties of data  sources​ Cloud/hybrid data integration​ Supports democratization of data  and analytics Enables data science and ML Business-enabled data engineering Large data volumes Data virtualization & federated analytics Agile delivery Data catalog and ability to search  data assets Data exploration & analytics  sandbox Automatic elasticity Near real-time streaming  capability Search and NLP-based insights Promotes self-services Just-in-time provisioning and  scalability
+
+=== SLIDE 24 ===
+Modern Data Platform NOTE ​ Any specific data types can be masked before ingesting data to the cloud to meet compliance requirements, if any.​ 01 Scalability and Flexibility​ 02 Data Lake / Lakehouse​ 03 Cost Optimization​ Increased 04 Process Efficiency​ 05 Agility and Innovation​ 06 Enhanced Data Security​
+
+=== SLIDE 25 ===
+Benefits Realization Real – Time Information Single source of truth Drill down capability up T o transaction level Greater reachability W ith control Consolidation of multiple D ata source Simple and User friendly Monthly performance review / Real time data (Delay in presenting the current status) Quick and efficient Decision-making (Detailed solution Delivered)
+
+=== SLIDE 26 ===
+PROJECTS OUR
+
+=== SLIDE 27 ===
+Before Implementation State
+
+=== SLIDE 28 ===
+After Implementation State
+
+=== SLIDE 29 ===
+Modern Data Platform Implementation. Sri Lankan Airlines and Microsoft selected Creative Software as the Technology partner to deliver Proof of Concepts for Modern Data Platform Implementation. Air Astana, flagship airline of Kazakhstan selected Creative Software as the Technology partner to for Azure journey and Modernization of airline solutions. Modernized the existing Data Warehouse into a Modern Data Platform on Azure with the power of Data Lake, Data bricks, Synapse analytics that brings the ability to make strategic/ management decisions within minutes which had been in days Migrate, Modernized and architect cloud native solutions with the Power of AKS (Kubernetes), Micro Services, API Manager, DevOps and App Gateway and move in to cloud with a proper architecture was a challenging task for Air Astana when we met their team. We could produce a solution that optimized the TCO while addressing all the above challengers.
+
+=== SLIDE 30 ===
+The bank was struggling with the business-critical virtual banking application due to various reasons and having hard time with managing releases smoothly. It was demanding highest availability and fault tolerance due to the nature of the business. Creative Software team proposed the architecture on Azure after critically evaluating the requirements and existing solution. Once the proposal is accepted, Creative team provisioned Production, Staging, Dev, Test environment and migrated data from AWS to Azure while helping to manage all the stakeholders for a smooth transition. Migrating business critical application from AWS to Azure while onboard DevOps to bring business agility, and modernized/integrated with Azure services for lower TCO and better ROI Modernization of Banking Infrastructure on Azure
+
+=== SLIDE 31 ===
+This dynamic combination allowed for the effortless integration of multiple data files from their core system, providing near real-time reporting and empowering informed decision-making. The flexibility and scalability of Azure Synapse ensured adaptability to current data volumes and future growth. Enhanced by the broader Azure ecosystem, the solution offers advanced analytics, data security, and governance. Overall, this implementation streamlined data integration, elevated operational efficiency, and paved the way for strategic decision-making at Allianz Lanka. We helped Allianz embrace a transformative solution by implementing Azure Synapse and Power BI to seamlessly integrate and analyse data from various sources. Allianz DataSphere
+
+=== SLIDE 34 ===
+Reporting but also empowered Dilmah for continued innovation and efficiency. The project involved meticulous assessment, streamlined data integration using Azure Synapse, and creation of the lake house architecture with implementation of ETL processes for to facilitate reporting to asset in decision making. Power BI reports and visualizations were tailored to meet specific reporting needs, ensuring secure access. Leveraging mapping functionalities, we generated dynamic management reports, centralizing financial data for informed decision-making. This initiative not only streamlined financial reporting but also empowered Dilmah for continued innovation and efficiency . At Dilmah we undertook a transformative project to optimize financial data from their custom ERP system which was servicing multiple companies. Optimization of Financial Data
+
+=== SLIDE 40 ===
+Built on Microsoft ASP.NET and SQL Server, CDNS is a secure on-premise platform that allows Sri Lankan traders and agents to monitor Customs Declarations ( CusDecs ) and cargo movements in real time. By providing remote access to data views, fines, and fraud prevention tools from any device, the system eliminates the need for physical visits while maintaining strict government security standards via OTP-secured logins. With the capacity to support over 30,000 concurrent users , CDNS significantly enhances operational efficiency through advanced reporting and chatbot support. Future updates, including "Ready to Process" notifications and proactive risk alerts, will further solidify its role as a digital transformation milestone that provides greater transparency and speed to the national trade ecosystem. A web-based service designed to bring transparency, efficiency, and accountability to the clearance process. Customer Document Notification System Watch our Video for more Info!
+
+=== SLIDE 43 ===
+Built on SQL Server and Power BI, DAT serves as a centralized intelligence platform that consolidates customs data from diverse sources including ASYCUDA, EREG, ECCR, and RMDB into a single, unified data warehouse. The system utilizes a sophisticated ETL process to extract and clean data, which is then visualized through 16 interactive dashboards to provide real-time insights for senior officials and operational managers across divisions like Revenue, Risk Management, and Cargo. By transforming complex datasets into actionable intelligence, DAT enhances transparency and decision-making while supporting critical functions such as fraud detection, valuation analysis, and outward remittance monitoring. Looking ahead, the platform is slated for significant upgrades, including the integration of machine learning for predictive analytics, AI-driven trade forecasting, and the development of mobile-friendly dashboards for on-the-go access A web-based service designed to bring transparency, efficiency, and accountability to the clearance process. Data Analytics Tool
+
+=== SLIDE 48 ===
+The project involved developing a secure, mobile-friendly web application designed to serve Physicians, Nurses, Midwives, and Parents with role-specific content. We implemented a real-time ICU Dashboard to track bed availability and optimize resource allocation, alongside a custom Learning Management System (SLCP Academy) for professional development. The solution also centralizes critical medical data through a Paediatric Drug Information system and practical clinical guides, while simultaneously empowering parents with accessible, evidence-based child health information through a multilingual blog. We partnered with the Sri Lanka College of Pediatricians to create a centralized digital platform that bridges the information gap between healthcare professionals and the general public. The Light Online Platform
+
+=== SLIDE 50 ===
+The project focuses on developing an advanced analytics platform utilizing Power BI to consolidate and visualize critical business metrics. The solution includes the implementation of a nightly automated data sync process for the data mart and the creation of interactive dashboards for Budget vs. KPI tracking. Using refined visualization techniques such as focus-mode table widgets and aligned graph trend lines we optimized the presentation of channel and product line data to match Forte’s existing design standards. Additionally, the engagement involves a comprehensive review of the current Data Warehouse (DWH) architecture to design a scalable, optimized target architecture for production-grade performance. We collaborated with Forte Insurance to implement a modernized data analytics solution that streamlines business performance tracking and enhances data-driven decision-making. Business Intelligence Proof of Concept
+
+=== SLIDE 52 ===
+Proposed an Azure architecture to mitigate the issue of delays when loading data from their core banking system to Datawarehouse for lower TCO and better ROI . BML ETL Accelerator BML faces the task of efficiently processing CSV files into their SQL data warehouse. ETL jobs are used to load core banking data into an 8TB SQL Server warehouse, projected to grow 1TB monthly, with an 8-year data retention requirement. This warehouse serves as the source for generating 105 reports via SSRS, Power BI, and Excel. Currently, the ETL processes 55GB daily in 4 hours. Streamlining this process is essential for data handling and timely reporting. Insights Acceleration Agility Reliability Efficiency Empowerment BENIFITS
+
+=== SLIDE 53 ===
+Arc h itecture 05 08 04 07 03 06 02 01 A shift from Extract, Transform, Load (ETL) to Extract, Load, Transform (ELT) was executed, optimizing data processing speed and efficiency. The project involved migrating to Azure Data Platform, incorporating advanced tools to address challenges in insight generation and ad-hoc reporting. The collaboration resulted in a significant transformation, empowering BML with a modernized data platform that offers enhanced capabilities for insights generation, improved data processing efficiency, and increased agility to adapt to evolving customer needs in the data-driven banking landscape. Extensive training sessions were conducted to upskill the BML team, ensuring they were proficient in utilizing the new data platform and tools. The project aimed to address challenges in insight generation, ad-hoc reporting, and data processing efficiency. BML focused on leveraging Azure Data Platform to enhance data engineering processes and optimize agility in responding to dynamic market demands. Bank of Maldives (BML) collaborated with Creative Software to modernize its data infrastructure. Inadequate features for insights, delays in ad-hoc reporting, and inefficiencies in the ETL process were identified as key challenges that the project aimed to overcome. Bank of Maldives (BML)
+
+=== SLIDE 54 ===
+Our Story Sharing With AMANA BANK -Data Transformation Journey-
+
+=== SLIDE 55 ===
+Data Consolidation and Analytics Amana Bank partners with Creative Software ​ to develop the Data Warehouse and BI solutions.​ Spreadsheets generated with distributed data silos were modernized into a central data warehouse with a dashboard that brings the ability to make strategic / management  decisions faster​ Solution Unavailability of insights to data Grater reachability of data Cost effective solutions Greater reachability of data
+
+=== SLIDE 56 ===
+Dashboards – Sales Performance OVERVIEW ADVANCES DEPOSIT CIFS The dashboards have the capability to delve into the transaction level, providing access to detailed information. Sales Performance Corporate Performance Operational Performance Other.......
+
+=== SLIDE 57 ===
+Customer Appr e ciation Letter -Amana Bank-
+
+=== SLIDE 58 ===
+Why Creative Software
+
